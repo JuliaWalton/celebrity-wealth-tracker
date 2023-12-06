@@ -77,3 +77,7 @@ h3 {
 .money{
     justify-self: end;
 }
+
+.person img {
+    border-radius: 50%;
+}
